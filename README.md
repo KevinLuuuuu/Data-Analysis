@@ -2,7 +2,7 @@
 
 ## HW1 Introduction: 
 
-資料集 : Titanic - Machine Learning from Disaster (https://www.kaggle.com/c/titanic/overview)
+資料集 : Titanic - Machine Learning from Disaster (https://www.kaggle.com/c/titanic/overview)  
 預測目標 : 乘客生還與否
 
 1. 進行資料分析與前處理
@@ -27,7 +27,7 @@
 
 ## HW2 Introduction: 
 
-資料集 : Boston House Prices (https://www.kaggle.com/vikrishnan/boston-house-prices)
+資料集 : Boston House Prices (https://www.kaggle.com/vikrishnan/boston-house-prices)  
 預測目標 : 預測房價
 
 1. 利用 Seaborn 畫箱型圖，觀察每一個 features 的數值分佈
