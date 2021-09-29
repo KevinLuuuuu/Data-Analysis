@@ -22,8 +22,8 @@
  - ensemble 模型選擇使用 RandomForestClassifier 進行訓練
 3. 將模型套用至 test.csv 進行預測後上傳到 Kaggle 上評分
  - 預測準確度(accuracy) : 78.947 %
- - Kaggle Public Leaderboard : 約 9.9 % (2021/4/26)
- <img src="https://i.imgur.com/meoxDOe.png" alt="alt text" width="510" height="200">
+ - Kaggle Public Leaderboard : 約 2.8 %
+ <img src="https://i.imgur.com/ywYaFpv.png" alt="alt text" width="510" height="200">
 
 ## HW2 Introduction: 
 
