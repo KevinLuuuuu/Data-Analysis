@@ -23,7 +23,7 @@
 3. 將模型套用至 test.csv 進行預測後上傳到 Kaggle 上評分
  - 預測準確度(accuracy) : 78.947 %
  - Kaggle Public Leaderboard : 約 2.8 %
- <img src="https://i.imgur.com/ywYaFpv.png" alt="alt text" width="510" height="200">
+ <img src="https://i.imgur.com/ywYaFpv.png" alt="alt text" width="580" height="200">
 
 ## HW2 Introduction: 
 
